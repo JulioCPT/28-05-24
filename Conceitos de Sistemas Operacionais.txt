@@ -1,0 +1,8 @@
+Conceitos de Sistemas Operacionais
+
+https://tecnoblog.net/responde/o-que-e-um-sistema-operacional/
+https://olhardigital.com.br/2022/09/29/tira-duvidas/sistema-operacional-o-que-e-para-que-serve-e-exemplos/
+https://www.buscape.com.br/notebook/conteudo/o-que-e-sistema-operacional
+
+
+Um sistema operacional pode ser entendido como um software que administra e controla funções de um sistema, estabelecendo uma interface entre o usuário e o computador. Dessa forma ele transforma os comandos dados ao mouse, teclado e ações do sistema em uma linguagem de máquina, enviando então todas essas instruções ao processador. O sistema operacional quando ligado o dispositivo, ele vai observar e vai verificar se os todos componentes do hardware e do software estão em perfeito funcionamento para ele poder ser usado. Outra coisa importante que podemos comentar sobre os sistemas operacionais é ele garantir ter um programa interferindo no outro sem causar quaisquer danos pro uso do usuário, criando de certa forma um ambiente que terá a execução de maneira conveniente sem perder eficiência.
